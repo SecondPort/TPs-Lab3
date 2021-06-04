@@ -1,0 +1,6 @@
+Libreria beautifulsoup4 4.9.3
+--pip install beautifulsoup4
+------------------------------
+libreria requests 2.25.1
+--pip install requests
+------------------------------
