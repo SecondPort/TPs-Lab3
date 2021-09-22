@@ -1,7 +1,7 @@
 # Booststrap
 ## _Diseño de paginas webs responsivo_
 
-[![N|Solid](https://getbootstrap.com/docs/4.0/assets/img/favicons/favicon-32x32.png)](https://getbootstrap.com/)
+[![N|Solid](https://getbootstrap.com/docs/4.0/assets/img/favicons/favicon-32x32.png)(https://getbootstrap.com/)
 
 [![Build Status](https://www.lucushost.com/blog/wp-content/uploads/2019/10/bootstrap.png)
 
